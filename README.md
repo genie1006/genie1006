@@ -1,4 +1,6 @@
-## Hi there 👋
+## JINHEE KIM
+
+WEB PUBLISHER · FRONT-END DEVELOPER
 
 <!--
 **genie1006/genie1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
